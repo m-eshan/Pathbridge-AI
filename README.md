@@ -65,8 +65,8 @@ career guidance/
 ### 2. Backend Setup
 ```bash
 # Clone the repository
-git clone https://github.com/m-eshan/career-guidance.git
-cd career-guidance
+git clone https://github.com/m-eshan/pathbridge-ai.git
+cd pathbridge-ai
 
 # Create and activate virtual environment
 python -m venv .venv
