@@ -1,0 +1,51 @@
+item_id,trait,keying,item_text,scoring_note
+IPIP001,Extraversion,+,Am the life of the party.,score as-is (1-5)
+IPIP002,Extraversion,+,Feel comfortable around people.,score as-is (1-5)
+IPIP003,Extraversion,+,Start conversations.,score as-is (1-5)
+IPIP004,Extraversion,+,Talk to a lot of different people at parties.,score as-is (1-5)
+IPIP005,Extraversion,+,Don't mind being the center of attention.,score as-is (1-5)
+IPIP006,Extraversion,-,Don't talk a lot.,reverse score: 6 - response
+IPIP007,Extraversion,-,Keep in the background.,reverse score: 6 - response
+IPIP008,Extraversion,-,Have little to say.,reverse score: 6 - response
+IPIP009,Extraversion,-,Don't like to draw attention to myself.,reverse score: 6 - response
+IPIP010,Extraversion,-,Am quiet around strangers.,reverse score: 6 - response
+IPIP011,Agreeableness,+,Am interested in people.,score as-is (1-5)
+IPIP012,Agreeableness,+,Sympathize with others' feelings.,score as-is (1-5)
+IPIP013,Agreeableness,+,Have a soft heart.,score as-is (1-5)
+IPIP014,Agreeableness,+,Take time out for others.,score as-is (1-5)
+IPIP015,Agreeableness,+,Feel others' emotions.,score as-is (1-5)
+IPIP016,Agreeableness,+,Make people feel at ease.,score as-is (1-5)
+IPIP017,Agreeableness,-,Am not really interested in others.,reverse score: 6 - response
+IPIP018,Agreeableness,-,Insult people.,reverse score: 6 - response
+IPIP019,Agreeableness,-,Am not interested in other people's problems.,reverse score: 6 - response
+IPIP020,Agreeableness,-,Feel little concern for others.,reverse score: 6 - response
+IPIP021,Conscientiousness,+,Am always prepared.,score as-is (1-5)
+IPIP022,Conscientiousness,+,Pay attention to details.,score as-is (1-5)
+IPIP023,Conscientiousness,+,Get chores done right away.,score as-is (1-5)
+IPIP024,Conscientiousness,+,Like order.,score as-is (1-5)
+IPIP025,Conscientiousness,+,Follow a schedule.,score as-is (1-5)
+IPIP026,Conscientiousness,+,Am exacting in my work.,score as-is (1-5)
+IPIP027,Conscientiousness,-,Leave my belongings around.,reverse score: 6 - response
+IPIP028,Conscientiousness,-,Make a mess of things.,reverse score: 6 - response
+IPIP029,Conscientiousness,-,Often forget to put things back in their proper place.,reverse score: 6 - response
+IPIP030,Conscientiousness,-,Shirk my duties.,reverse score: 6 - response
+IPIP031,Emotional Stability,+,Am relaxed most of the time.,score as-is (1-5)
+IPIP032,Emotional Stability,+,Seldom feel blue.,score as-is (1-5)
+IPIP033,Emotional Stability,-,Get stressed out easily.,reverse score: 6 - response
+IPIP034,Emotional Stability,-,Worry about things.,reverse score: 6 - response
+IPIP035,Emotional Stability,-,Am easily disturbed.,reverse score: 6 - response
+IPIP036,Emotional Stability,-,Get upset easily.,reverse score: 6 - response
+IPIP037,Emotional Stability,-,Change my mood a lot.,reverse score: 6 - response
+IPIP038,Emotional Stability,-,Have frequent mood swings.,reverse score: 6 - response
+IPIP039,Emotional Stability,-,Get irritated easily.,reverse score: 6 - response
+IPIP040,Emotional Stability,-,Often feel blue.,reverse score: 6 - response
+IPIP041,Intellect/Imagination,+,Have a rich vocabulary.,score as-is (1-5)
+IPIP042,Intellect/Imagination,+,Have a vivid imagination.,score as-is (1-5)
+IPIP043,Intellect/Imagination,+,Have excellent ideas.,score as-is (1-5)
+IPIP044,Intellect/Imagination,+,Am quick to understand things.,score as-is (1-5)
+IPIP045,Intellect/Imagination,+,Use difficult words.,score as-is (1-5)
+IPIP046,Intellect/Imagination,+,Spend time reflecting on things.,score as-is (1-5)
+IPIP047,Intellect/Imagination,+,Am full of ideas.,score as-is (1-5)
+IPIP048,Intellect/Imagination,-,Have difficulty understanding abstract ideas.,reverse score: 6 - response
+IPIP049,Intellect/Imagination,-,Am not interested in abstract ideas.,reverse score: 6 - response
+IPIP050,Intellect/Imagination,-,Do not have a good imagination.,reverse score: 6 - response

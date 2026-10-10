@@ -1,0 +1,32 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+*.pkl
+
+# Node / React Frontend
+node_modules/
+frontend/node_modules/
+frontend/dist/
+frontend/build/
+.npm/
+
+# Logs & Temporary Task Data
+*.log
+.system_generated/
+.gemini/
+.idea/
+.vscode/
+.DS_Store
+
+# Session Data Cache & Large Datasets
+data/user_sessions/
+datasets/*.parquet
+datasets/cache_*.pkl
+datasets/job_summary.csv
+datasets/job_skills.csv
+datasets/linkedin_job_postings.csv

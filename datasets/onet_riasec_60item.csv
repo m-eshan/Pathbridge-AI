@@ -1,0 +1,61 @@
+item_id,trait,item_text
+RIASEC001,Realistic,Build kitchen cabinets
+RIASEC002,Realistic,Lay brick or tile
+RIASEC003,Realistic,Repair household appliances
+RIASEC004,Realistic,Raise fish in a fish hatchery
+RIASEC005,Realistic,Assemble electronic parts
+RIASEC006,Realistic,Drive a truck to deliver packages to offices and homes
+RIASEC007,Realistic,Test the quality of parts before shipment
+RIASEC008,Realistic,Repair and install locks
+RIASEC009,Realistic,Set up and operate machines to make products
+RIASEC010,Realistic,Put out forest fires
+RIASEC011,Investigative,Develop a new medicine
+RIASEC012,Investigative,Study ways to reduce water pollution
+RIASEC013,Investigative,Conduct chemical experiments
+RIASEC014,Investigative,Study the movement of planets
+RIASEC015,Investigative,Examine blood samples using a microscope
+RIASEC016,Investigative,Investigate the cause of a fire
+RIASEC017,Investigative,Develop a way to better predict the weather
+RIASEC018,Investigative,Work in a biology lab
+RIASEC019,Investigative,Invent a replacement for sugar
+RIASEC020,Investigative,Do laboratory tests to identify diseases
+RIASEC021,Artistic,Write books or plays
+RIASEC022,Artistic,Play a musical instrument
+RIASEC023,Artistic,Compose or arrange music
+RIASEC024,Artistic,Draw pictures
+RIASEC025,Artistic,Create special effects for movies
+RIASEC026,Artistic,Paint sets for plays
+RIASEC027,Artistic,Write scripts for movies or television shows
+RIASEC028,Artistic,Perform jazz or tap dance
+RIASEC029,Artistic,Sing in a band
+RIASEC030,Artistic,Edit movies
+RIASEC031,Social,Teach an individual an exercise routine
+RIASEC032,Social,Help people with personal or emotional problems
+RIASEC033,Social,Give career guidance to people
+RIASEC034,Social,Perform rehabilitation therapy
+RIASEC035,Social,Do volunteer work at a non-profit organization
+RIASEC036,Social,Teach children how to play sports
+RIASEC037,Social,Teach sign language to people who are deaf or hard of hearing
+RIASEC038,Social,Help conduct a group therapy session
+RIASEC039,Social,Take care of children at a day-care center
+RIASEC040,Social,Teach a high-school class
+RIASEC041,Enterprising,Buy and sell stocks and bonds
+RIASEC042,Enterprising,Manage a retail store
+RIASEC043,Enterprising,Operate a beauty salon or barber shop
+RIASEC044,Enterprising,Manage a department within a large company
+RIASEC045,Enterprising,Start your own business
+RIASEC046,Enterprising,Negotiate business contracts
+RIASEC047,Enterprising,Represent a client in a lawsuit
+RIASEC048,Enterprising,Market a new line of clothing
+RIASEC049,Enterprising,Sell merchandise at a department store
+RIASEC050,Enterprising,Manage a clothing store
+RIASEC051,Conventional,Develop a spreadsheet using computer software
+RIASEC052,Conventional,Proofread records or forms
+RIASEC053,Conventional,Install software across computers on a large network
+RIASEC054,Conventional,Operate a calculator
+RIASEC055,Conventional,Keep shipping and receiving records
+RIASEC056,Conventional,Calculate the wages of employees
+RIASEC057,Conventional,Inventory supplies using a hand-held computer
+RIASEC058,Conventional,Record rent payments
+RIASEC059,Conventional,Keep inventory records
+RIASEC060,Conventional,"Stamp, sort, and distribute mail for an organization"
