@@ -23,10 +23,45 @@ Unlike traditional "black-box" recommender systems, PathBridge AI guarantees **1
 
 ---
 
+## 🏛️ End-to-End System Architecture
+
+The core pipeline integrates psychometric trait profiling, conversational emotion extraction, cross-domain Knowledge Graph path traversal, and multi-tier roadmap synthesis into a unified, explainable decision support architecture:
+
+<p align="center">
+  <img src="assets/architecture.png" alt="PathBridge AI End-to-End Architecture" width="100%">
+</p>
+
+---
+
+## 📸 Application Interface & Interactive Tabs
+
+| 1. Landing & 3D Knowledge Globe | 2. Resume & Skill Extraction |
+| :---: | :---: |
+| <img src="assets/01_landing_page.png" alt="Landing Page" width="100%"> | <img src="assets/02_resume_analysis.png" alt="Resume Analysis" width="100%"> |
+| **Interactive 3D Knowledge Globe & Intake** | **Automated Parsing & ESCO Skill Tagging** |
+
+| 3. Psychometric Trait Assessment | 4. RoBERTa Emotion-Aware AI Counselor |
+| :---: | :---: |
+| <img src="assets/03_psychometric_assessment.png" alt="Psychometric Assessment" width="100%"> | <img src="assets/04_ai_career_chat.png" alt="AI Career Chat" width="100%"> |
+| **Mini-IPIP Big Five & O*NET RIASEC Profiler** | **Real-Time Affective Signal Extraction** |
+
+| 5. Explainable Career Pathways & 3D Bridge | 6. Knowledge Graph Skill Tree & Trait Radar |
+| :---: | :---: |
+| <img src="assets/05_career_pathways.png" alt="Career Pathways" width="100%"> | <img src="assets/06_skill_graph_tree.png" alt="Skill Graph Tree" width="100%"> |
+| **Ranked Transition Pathways with Graph Traversal** | **Interactive 3D Skill Proximity Visualizer** |
+
+| 7. ESCO-Linked 3-Stage Action Roadmap |
+| :---: |
+| <img src="assets/07_transition_roadmap.png" alt="Transition Roadmap" width="100%"> |
+| **Immediate, Mid-Term, and Post-Graduation ESCO Skill Roadmaps** |
+
+---
+
 ## 📁 Repository Structure
 
 ```text
-career guidance/
+pathbridge-ai/
+├── assets/                     # Architecture diagram & high-res UI tab previews
 ├── backend/
 │   └── main.py                 # FastAPI Web Application & REST API Endpoints
 ├── src/
@@ -47,10 +82,9 @@ career guidance/
 │   └── package.json            # Node.js dependencies
 ├── datasets/                   # ESCO, O*NET, and Big Five/RIASEC instrument CSVs
 ├── paper_assets/               # Publication figures (ROC curve, PR curve, confusion matrix)
-├── verify_bugs_fix.py          # Automated verification script for latency & roadmap outputs
-├── generate_evaluation_plots.py# Script to generate 300 DPI evaluation charts
+├── start_app.bat               # Windows one-click application launcher
+├── stop_app.bat                # Windows graceful process terminator
 ├── requirements.txt            # Python dependencies
-├── references.bib              # Complete IEEE formatted BibTeX reference database
 └── README.md
 ```
 
